@@ -6472,7 +6472,7 @@ section.lazy-placeholder:after {
 }
 .cid-s21q9hjdrQ {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #efeeee;
 }
 .cid-s21q9hjdrQ .container {
@@ -6566,6 +6566,18 @@ section.lazy-placeholder:after {
 }
 .cid-s21q9hjdrQ .mbr-text {
   color: #767676;
+}
+#custom-html-2m {
+  /* Type valid CSS here */
+}
+#custom-html-2m div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2m p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-s21r1gQpOO {
   padding-top: 90px;
@@ -10423,6 +10435,18 @@ section.lazy-placeholder:after {
   padding-top: 150px;
   padding-bottom: 150px;
   background-image: url("../../../assets/images/dji-233-2000x1333.jpg");
+}
+#custom-html-2l {
+  /* Type valid CSS here */
+}
+#custom-html-2l div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2l p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-s21I04Y5UC {
   padding-top: 60px;
