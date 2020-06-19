@@ -10689,6 +10689,18 @@ section.lazy-placeholder:after {
     opacity: 0;
   }
 }
+#custom-html-2n {
+  /* Type valid CSS here */
+}
+#custom-html-2n div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2n p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-s251ExNyVe {
   padding-top: 90px;
   padding-bottom: 90px;
